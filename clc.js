@@ -8,3 +8,7 @@ function solve(){
                         let y = math.evaluate(x)
                         document.getElementById("result").value = y
 }
+// Function that clear the display
+		function clr() {
+			document.getElementById("result").value = ""
+		}
