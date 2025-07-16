@@ -5,6 +5,6 @@ function dis(n){
 }
 function solve(){
     let x = document.getElementById("result").value
-    let y = Math.evaluate(x)
-    document.getElementById("result").value = y
+                        let y = math.evaluate(x)
+                        document.getElementById("result").value = y
 }
